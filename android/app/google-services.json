@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683545404397",
+    "project_id": "push-norifications-67aeb",
+    "storage_bucket": "push-norifications-67aeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683545404397:android:26c399cd1a7632a23bbde4",
+        "android_client_info": {
+          "package_name": "com.example.practica_guiada_2_riverpod_notificaciones_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxEwsWCrU2Lb-0zWXQu_ITza5ftf3IDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
